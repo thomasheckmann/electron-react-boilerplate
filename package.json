@@ -245,7 +245,7 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
+      "owner": "thomasheckmann",
       "repo": "electron-react-boilerplate"
     }
   },

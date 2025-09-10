@@ -5,8 +5,8 @@
   "license": "MIT",
   "author": {
     "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "email": "thomas.kolbeck@gmail.com",
+    "url": "https://github.com/thomasheckmann/electron-react-boilerplate"
   },
   "main": "./dist/main/main.js",
   "scripts": {
